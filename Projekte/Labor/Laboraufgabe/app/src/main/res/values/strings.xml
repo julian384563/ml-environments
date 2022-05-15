@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Objekterkennung Labor</string>
+    <string name="tv_take_photo">Foto aufnehmen</string>
+    <string name="tv_description">Bild auswählen oder aufnehmen</string>
+    <string name="tv_placeholder">Demo Objekterkennung</string>
+</resources>
